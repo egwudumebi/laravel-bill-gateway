@@ -13,9 +13,9 @@ APIs and catalog data (categories, billers, products):
 ## Installation
 
 ```bash
-composer require aelura/laravel-bill-gateway
-composer require aelura/laravel-bill-gateway:*
-composer require aelura/laravel-bill-gateway:dev-main
+composer require egwudumebi/laravel-bill-gateway
+composer require egwudumebi/laravel-bill-gateway:*
+composer require egwudumebi/laravel-bill-gateway:dev-main
 ```
 
 If you are not using package auto-discovery, register the service provider and facade
